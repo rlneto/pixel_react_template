@@ -1,0 +1,168 @@
+/* src/assets/fonts.css */
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./fonts/KoHo-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 700;
+  font-style: italic;
+  src: url('./fonts/KoHo-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 500;
+  font-style: normal;
+  src: url('./fonts/KoHo-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 500;
+  font-style: italic;
+  src: url('./fonts/KoHo-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 200;
+  font-style: normal;
+  src: url('./fonts/KoHo-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 200;
+  font-style: italic;
+  src: url('./fonts/KoHo-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./fonts/KoHo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 400;
+  font-style: italic;
+  src: url('./fonts/KoHo-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./fonts/KoHo-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 300;
+  font-style: italic;
+  src: url('./fonts/KoHo-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 600;
+  font-style: normal;
+  src: url('./fonts/KoHo-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'KoHo';
+  font-weight: 600;
+  font-style: italic;
+  src: url('./fonts/KoHo-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./fonts/Krub-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 700;
+  font-style: italic;
+  src: url('./fonts/Krub-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 500;
+  font-style: normal;
+  src: url('./fonts/Krub-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 500;
+  font-style: italic;
+  src: url('./fonts/Krub-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 200;
+  font-style: normal;
+  src: url('./fonts/Krub-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 200;
+  font-style: italic;
+  src: url('./fonts/Krub-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./fonts/Krub-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 400;
+  font-style: italic;
+  src: url('./fonts/Krub-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./fonts/Krub-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 300;
+  font-style: italic;
+  src: url('./fonts/Krub-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 600;
+  font-style: normal;
+  src: url('./fonts/Krub-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Krub';
+  font-weight: 600;
+  font-style: italic;
+  src: url('./fonts/Krub-SemiBoldItalic.ttf') format('truetype');
+}

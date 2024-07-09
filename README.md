@@ -9,6 +9,11 @@ Boilerplate para projetos React com Typescript na [Pixel](https://www.ejpixel.co
 -   Eslint
 -   TailwindCSS
 
+### Fontes pré-configuradas:
+
+-   KoHo (shorthand font-koho no tailwind)
+-   Krub (shorthand font-krub no tailwind)
+
 ### Autores:
 
 -   [Jonatan Felipe Hartmann](https://github.com/hartmannjonatan)
